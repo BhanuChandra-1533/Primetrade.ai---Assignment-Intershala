@@ -79,7 +79,13 @@ strategies.
 
 4.Risk Management: Always incorporate appropriate risk management measures, such as stop-loss orders and position sizing limits.
 
+5.Contrarian Strategy
 
+6. Trend-Following Strategy with Sentiment Confirmation.
+   
+7. Sentiment-Weighted Position Sizing.
+   
+8. Sentiment-Based Market Timing.
 
 
 ## Link to dataset
